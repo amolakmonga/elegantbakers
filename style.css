@@ -212,3 +212,16 @@ body {
   clear: both;
   display: table;
 }
+
+.img-container {
+    float: left;
+    width: 15%;
+    padding: 6px;
+    }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
